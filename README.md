@@ -2,7 +2,7 @@
 
 ![Calculator Preview](/Images/calculator-preview.gif)
 
-A sleek and modern calculator web application with multiple color themes. This project demonstrates responsive design, theme switching, and basic arithmetic operations.
+A sleek and modern calculator web application with Mini-Calc `multiple color themes`. This project demonstrates responsive design, theme switching, and basic arithmetic operations.
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ A sleek and modern calculator web application with multiple color themes. This p
 
 1. **Open the Calculator**: 
    - 📂 Clone this repository and open `index.html` in your web browser, or
-   - 🌐 Visit the live demo [here](#) (replace with your actual live demo link if available).
+   - 🌐 Visit the live demo [here](mini-calc.vercel.app)
 
 2. **Perform Calculations**:
    - 🔢 Click on number buttons to input values.
@@ -28,7 +28,7 @@ A sleek and modern calculator web application with multiple color themes. This p
    - 🔄 `RESET`: Clears all entered values and operations.
 
 4. **Switch Themes**:
-   - 🎚️ Click on the theme toggle in the top-right corner to cycle through different color schemes.
+   - ✨ Click on the theme toggle in the top-right corner to cycle through different color schemes.
 
 ## 🎨 Color Themes
 
@@ -59,11 +59,11 @@ This calculator offers three distinct color themes:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/multi-theme-calculator.git
+   git clone https://github.com/yourusername/mini-calc.git
    ```
 2. Navigate to the project directory:
    ```
-   cd multi-theme-calculator
+   cd mini-calc
    ```
 3. Open `index.html` in your preferred web browser.
 
