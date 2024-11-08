@@ -15,7 +15,7 @@ A sleek and modern calculator web application with Mini-Calc `multiple color the
 
 1. **Open the Calculator**: 
    - 📂 Clone this repository and open `index.html` in your web browser, or
-   - 🌐 Visit the live demo [here](mini-calc.vercel.app)
+   - 🌐 Visit the live demo [mini-calc](https://mini-calc.vercel.app)
 
 2. **Perform Calculations**:
    - 🔢 Click on number buttons to input values.
