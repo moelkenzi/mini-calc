@@ -1,6 +1,6 @@
 # 🧮 Multi-Theme Calculator
 
-![Calculator Preview](/Images/calculator-preview.gif)
+![Calculator Preview](/Assets/Images/calculator-preview.gif)
 
 A sleek and modern calculator web application with Mini-Calc `multiple color themes`. This project demonstrates responsive design, theme switching, and basic arithmetic operations.
 
